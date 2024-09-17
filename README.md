@@ -10,7 +10,7 @@
 - 📝 I write blogs on [blog.ibrahimshahine.com](https://blog.ibrahimshahine.com/)
 
 - 💬 Ask me about **React, NodeJS, NextJS, Angular, Spring**
-- 
+  
 - ⚡ Fun fact **I'm a 🟦 blue belt in BJJ**
 
 <h3 align="left">Connect with me:</h3>
